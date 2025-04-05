@@ -101,7 +101,6 @@ body {
   display: none;
 }
 .loader {
-  display: none; /* По умолчанию скрыт */
   color: #007bff;
   text-align: center;
   font-size: 24px;
